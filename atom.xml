@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yuanqiyinpin.github.io</id>
+    <title>元气音频</title>
+    <updated>2022-07-24T12:07:53.093Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yuanqiyinpin.github.io"/>
+    <link rel="self" href="https://yuanqiyinpin.github.io/atom.xml"/>
+    <subtitle>一位集齐技术一身的小UP
+ 『有外置声卡就推荐使用Sam』  『 耳机或独立麦克风用元气变声
+取决你喜欢用那个都行 』</subtitle>
+    <logo>https://yuanqiyinpin.github.io/images/avatar.png</logo>
+    <icon>https://yuanqiyinpin.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 元气音频</rights>
+    <entry>
+        <title type="html"><![CDATA[温鑫系统在线装机助理RC35 (PC)]]></title>
+        <id>https://yuanqiyinpin.github.io/post/wen-xin-xi-tong-zai-xian-zhuang-ji-zhu-li-rc35-pc/</id>
+        <link href="https://yuanqiyinpin.github.io/post/wen-xin-xi-tong-zai-xian-zhuang-ji-zhu-li-rc35-pc/">
+        </link>
+        <updated>2022-07-06T14:07:36.000Z</updated>
+        <content type="html"><![CDATA[<p>温鑫系统装机助理是一款快速、安全、干净整洁的系统装机软件。<br>
+从2016-2022，这7年来 我们以纯净、安全快速为宗旨，封装纯净版镜像，不忘初心！<br>
+我们的愿景是给每一位用户带来极致体验，致力于打造更好用的纯净系统、追求完美系统！不流氓、不欺骗、不夸大，无任何捆绑推广软件，一直在改进，只为做得更好。温鑫系统适当精简系统，98%保留了系统所有功能，系统采用全新技术，独家纯手工优化，设置布局更加突出完美。<br>
+1、温鑫系统绿色纯净，稳定，快速，兼容性好，无任何捆绑软件<br>
+2、海量驱动，以驱动总裁最新驱动包为基础，支持最新主板及显卡<br>
+3、系统只做纯净版（无任何软件）、只集成Bandizip无广告版、VB/VC等常用运行库、Flash、Edge）<br>
+官网地址：https://ai.win10sys.com/<br>
+<img src="https://yuanqiyinpin.github.io/post-images/1657116537139.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SAM机架免费版使用图文教程]]></title>
+        <id>https://yuanqiyinpin.github.io/post/sam-ji-jia-jing-jian-ban-shi-yong-jiao-cheng/</id>
+        <link href="https://yuanqiyinpin.github.io/post/sam-ji-jia-jing-jian-ban-shi-yong-jiao-cheng/">
+        </link>
+        <updated>2022-06-29T06:05:38.000Z</updated>
+        <content type="html"><![CDATA[<p>欢迎各位小伙伴找我精调，无须伪音，市面上有很多调试变声的，但是有些调音师并不能完整切除电流与机械音，我可以通过插件等方法能百分百切除，增加防爆音的功能，变声器通常大声说话就会爆音不清晰等情况出现，是非常困扰的，增加音色美化真实度，减少合成音的情况出现！<br>
+😍教程开始<br>
+个别部分家庭版电脑系统是没办法双击运行的，最好是专业版系统，个人网站有提供纯净版一键在线装机的文章，不想重装就用元气变声器<br>
+软件出现乱码解决方法<br>
+<img src="https://yuanqiyinpin.github.io/post-images/1657729146018.png" alt="" loading="lazy"><br>
+此教程毫无说漏的，如果看不清图片文字，Ctrl键+鼠标滚轮进行放大<br>
+双击安装机架，安装密码63966486<img src="https://yuanqiyinpin.github.io/post-images/1656662662815.png" alt="" loading="lazy"><br>
+安装路径不要变动，否则无法使用<img src="https://yuanqiyinpin.github.io/post-images/1656662691646.png" alt="" loading="lazy"><br>
+第二章：启动机架向导<br>
+安装好双击Ssm机架<br>
+如下图双击打开效果即可<img src="https://yuanqiyinpin.github.io/post-images/1656679606241.png" alt="" loading="lazy"><br>
+第三章：右键软件系统栏<br>
+右键图标打开机架管理器<br>
+<img src="https://yuanqiyinpin.github.io/post-images/1657114065635.png" alt="" loading="lazy"><br>
+如果你有声卡可以忽略不需要安装，只有耳机跟独立麦克风必须安装!<br>
+<img src="https://yuanqiyinpin.github.io/post-images/1657113824129.png" alt="" loading="lazy"><br>
+安装ASIO4ALL记得打勾<br>
+<img src="https://yuanqiyinpin.github.io/post-images/1657113857325.png" alt="" loading="lazy"></p>
+<p>第四章：系统音频设置<br>
+右键软件系统栏进入音频设置<br>
+<img src="https://yuanqiyinpin.github.io/post-images/1657114375261.png" alt="" loading="lazy"><br>
+一般USB耳机采样率都是44100或者4800。如果是蓝牙耳机通常1600hz采样率，建议别用了，太垃圾了，可以右键你的耳机驱动查看属性，不是右键01，是你自己的硬件驱动设备<br>
+输出设置<img src="https://yuanqiyinpin.github.io/post-images/1657106904827.png" alt="" loading="lazy"><br>
+输入设置<img src="https://yuanqiyinpin.github.io/post-images/1657106916505.png" alt="" loading="lazy"><br>
+第五章：打开机架双击效果文件之后F9呼出调音台，如果没有反应，那就自己开启热键即可<img src="https://yuanqiyinpin.github.io/post-images/1657102665314.png" alt="" loading="lazy">F9呼出调音台<br>
+<img src="https://yuanqiyinpin.github.io/post-images/1656663178158.png" alt="" loading="lazy"><br>
+第六章：进入设置机架音频系统与跳线设置<br>
+如果你有声卡，并且声卡自带ASIO，点击ASIO，再点ASIO设备，选择你的声卡ASIO即可，如果没声卡，只有耳机跟独立麦克风，看图认真查看，最重要的一步了，那就如图设置操作，如果看不清图片文字，Ctrl键+鼠标滚轮进行放大<img src="https://yuanqiyinpin.github.io/post-images/1657096978210.png" alt="" loading="lazy"><br>
+跳线设置，跟着下图操作即可｛有声卡可以忽略｝鼠标左键按住不动拉线就可以了，拉完线记得保存，跟着抄袭就好了<img src="https://yuanqiyinpin.github.io/post-images/1656666942403.png" alt="" loading="lazy"><br>
+第七章：机架监听<br>
+如下图设置即可，先把总音量控制改为3+4，记得改、然后监听在主控哪里，1+2就是开监听，不激活独奏就是关闭监听，看图操作，图片看不清Ctrl键+鼠标滚轮进行放大<img src="https://yuanqiyinpin.github.io/post-images/1657102464673.png" alt="" loading="lazy"><br>
+如果以上操作都不行，请检查您的耳机插口是否是USB接口或者是3.5单根接口，双根不行的。蓝牙耳机通常不可以，笔记本自带的麦克风扬声器也不行，起码你也得有个设备哈<br>
+检查ASIO4ALL驱动面板设置您的耳机驱动没有<br>
+实在不会b站投喂50电池找我解决<br>
+😌感谢您使用Sam机架免费版</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[变声需要哪些设备介绍]]></title>
+        <id>https://yuanqiyinpin.github.io/post/yuan-qi-bian-sheng-qi-jie-shao/</id>
+        <link href="https://yuanqiyinpin.github.io/post/yuan-qi-bian-sheng-qi-jie-shao/">
+        </link>
+        <updated>2022-06-26T01:59:49.000Z</updated>
+        <content type="html"><![CDATA[<p>元气变声器与SAM为二次开源软件，搭配低延迟高音质ASIO LinkPro驱动让你没有声卡都能使用，能做到监听零延迟，能够自由开关监听功能，并且变声器机架占用率低，性能更强悍，机架自带100多种超高保真的变声效果，高级版具备自定义调试，能够灵活变动您的音色需求</p>
+<p>关于机架能使用什么设备：<br>
+内置设备可以使用USB接口的头戴式耳机，USB接口的入耳式耳机带麦克风的款式，USB接口的麦克风，或者单根3.5接口的头戴式麦克风都可以：推荐耳机有  低配有漫步者G2专业版耳机售价200<br>
+🤓<br>
+高配有雷蛇北海巨妖耳机<br>
+雷蛇北海巨妖秒杀1500左右的声卡 如果不考虑买高端声卡 这耳机是最合适的选择 淘宝雷蛇旗舰店售价499元<br>
+<img src="https://yuanqiyinpin.github.io/post-images/1658163788556.JPG" alt="" loading="lazy"></p>
+<p><img src="https://yuanqiyinpin.github.io/post-images/1656208871285.png" alt="" loading="lazy"><br>
+外置声卡可以使用，客所思，艾肯，跳羚，玛雅，魅声等  推荐设备有  艾肯mini Dyna搭配得胜PCK220麦克风 售价2000<br>
+<img src="https://yuanqiyinpin.github.io/post-images/1656208883938.png" alt="" loading="lazy"></p>
+<div style="position: relative; padding: 30% 45%;">
+    <iframe style="
+        position: absolute; 
+        width: 100%; 
+        height: 100%; 
+        left: 0; top: 0;" 
+        src="//player.bilibili.com/player.html?aid=855445025&bvid=BV1sL4y1w79Q&cid=758449921&page=1" 
+        scrolling="no" 
+        border="0" 
+        frameborder="no" 
+        framespacing="0" 
+        allowfullscreen="true">
+    </iframe>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[元气音频变声器免费版必看使用教程篇]]></title>
+        <id>https://yuanqiyinpin.github.io/post/archives/</id>
+        <link href="https://yuanqiyinpin.github.io/post/archives/">
+        </link>
+        <updated>2022-06-20T06:29:40.000Z</updated>
+        <content type="html"><![CDATA[<p>｛为保证软件的正常运行，卸载您的杀毒软件，软件本身没有病毒，DLL签名过期会报毒而已，可下载火绒安全软件保证运行｝<br>
+出现浏览器下载不了的：提示请在打开前确保信任保留 元气音频变声器的，点击文件，信任它即可下载<br>
+元气变声器免费版教程｛本教程是为USB耳机或者独立麦克风的｝<br>
+软件出现乱码解决方法<br>
+<img src="https://yuanqiyinpin.github.io/post-images/1657729146018.png" alt="" loading="lazy"></p>
+<p>第一章：进入免费版  使用时候后有微弱电流跟机械很正常 因为是免费体验的<br>
+😌<br>
+打开免费版<br>
+<img src="https://yuanqiyinpin.github.io/post-images/1657103482848.png" alt="" loading="lazy"><br>
+首先打开软件,然后我们会看到软件的页面,有个免费版的，点击即可进入页面。首次进去界面点击虚拟声卡，选择安装驱动<img src="https://yuanqiyinpin.github.io/post-images/1656323201709.png" alt="" loading="lazy"><br>
+设置软件音频通道，打开软件设置<br>
+第二章：进去界面如图设置：点击软件设置，输入通道选MME:｛你的硬件常用麦克风｝<br>
+输出通道：MME：｛元气扬声器VB-Audio Cable A｝<br>
+音频采样率根据你的硬件采样率决定，你的硬件采样率44100就选44100,4800就选4800<br>
+蓝牙耳机通常1600hz或者8000hz，音质太垃圾就不要使用该机架了<br>
+<img src="https://yuanqiyinpin.github.io/post-images/1656326196251.png" alt="" loading="lazy"><br>
+<img src="https://yuanqiyinpin.github.io/post-images/1656338187699.png" alt="" loading="lazy"><br>
+系统音频设置<br>
+第三章：打开系统音频，播放哪里默认设备改为你的常用硬件扬声器通道<img src="https://yuanqiyinpin.github.io/post-images/1656323734371.png" alt="" loading="lazy"><br>
+点击-录制,把元气麦克风设置为默认麦克风<img src="https://yuanqiyinpin.github.io/post-images/1656324847287.png" alt="" loading="lazy"><br>
+设置音频采样率<br>
+第四章：把你的硬件音频通道跟元气虚拟通道全部都设置为44100或者4800Hz,所有轨道采样如果不一致,没有声音的,如果设置好还是没有声音,然后重启电脑即可！一定要重启电脑哦<br>
+注:部分蓝牙耳机采样只有16000,最低44100,低于这个音质太差了,就不建议使用软件了<img src="https://yuanqiyinpin.github.io/post-images/1656324120383.png" alt="" loading="lazy"><br>
+游戏场景或YY或QQ使用：进入软件或游戏，把麦克风输入默认为元气麦克风，扬声器输出不用设置即可!<br>
+<img src="https://yuanqiyinpin.github.io/post-images/1656338345796.png" alt="" loading="lazy"><br>
+设置监听方法<br>
+第五章：如果想要声音输出出去,右键打开元气麦克风，同时自己也能听到自己的监听声音,点击侦听此设备即可<img src="https://yuanqiyinpin.github.io/post-images/1658286956923.png" alt="" loading="lazy"><br>
+实在不会b站投喂50电池找我解决</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[男客户精调效果]]></title>
+        <id>https://yuanqiyinpin.github.io/post/nan-ke-hu-jing-diao-xiao-guo/</id>
+        <link href="https://yuanqiyinpin.github.io/post/nan-ke-hu-jing-diao-xiao-guo/">
+        </link>
+        <updated>2022-06-19T09:33:47.000Z</updated>
+        <content type="html"><![CDATA[<div style="position: relative; padding: 30% 45%;">
+    <iframe style="
+        position: absolute; 
+        width: 100%; 
+        height: 100%; 
+        left: 0; top: 0;" 
+        src="//player.bilibili.com/player.html?aid=769511216&bvid=BV1Ar4y1x7Au&cid=734581834&page=1&high_quality=1" 
+        scrolling="no" 
+        border="0" 
+        frameborder="no" 
+        framespacing="0" 
+        allowfullscreen="true">
+    </iframe>
+</div>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[33娘电脑壁纸]]></title>
+        <id>https://yuanqiyinpin.github.io/post/33-niang-dian-nao-bi-zhi/</id>
+        <link href="https://yuanqiyinpin.github.io/post/33-niang-dian-nao-bi-zhi/">
+        </link>
+        <updated>2022-06-19T09:17:25.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://yuanqiyinpin.github.io/post-images/1655630305163.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+</feed>
